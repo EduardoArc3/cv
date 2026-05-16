@@ -51,7 +51,7 @@ export class PortfolioComponent {
         description: " ",
         projectLink: 'https://github.com/Luisa-GVR/NutriApp.git',
         tags: [Tag.GOLANG],
-        pictures: ["../../assets/", "../../assets/","../../assets/", "../../assets/" ]
+        pictures: ["../../assets/nutria.jpeg", "../../assets/nutria2.png","../../assets/nutria3.png", "../../assets/nutria4.png","../../assets/nutria5.png", "../../assets/nutria6.png"]
       },
 
       { 
@@ -59,9 +59,9 @@ export class PortfolioComponent {
         name: 'PUCA (Cafetería)',
         summary: "  ",
         description: " ",
-        projectLink: 'https://github.com/SeaBassy4/PUCA_Front_End.git\nhttps://github.com/SeaBassy4/PUCA_Back_End.git',
+        projectLink: 'https://github.com/SeaBassy4/PUCA_Front_End.git',
         tags: [Tag.GOLANG],
-        pictures: ["../../assets/", "../../assets/","../../assets/", "../../assets/" ]
+        pictures: ["../../assets/puca1.png", "../../assets/puca2.png","../../assets/puca3.png", "../../assets/puca4.png", "../../assets/puca5.png" ]
       },
 
     
